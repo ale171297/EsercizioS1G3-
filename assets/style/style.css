@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+figure img {
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px rgb(192, 200, 204);
+}
+
+main {
+  background-color: rgb(224, 229, 241);
+  border-top-color: rgb(243, 177, 78);
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+.allinea {
+  width: 1px;
+  margin: auto;
+  text-align: left;
+}
+.focaccia {
+  width: 200px;
+
+  left: -60px;
+  position: relative;
+}
+ul {
+  display: inline-block;
+}
